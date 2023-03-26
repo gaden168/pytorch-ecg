@@ -1,0 +1,3 @@
+﻿姓名,index,date_of_tavi,sex,age,bmi,分开,pre_dilation,valve_type,valve_size,post_dilation,pre_avb1,pre_avb2,pre_lbbb,pre_rbbb,pre_lah,pre_lph,终点
+AAA,1,42753,1,81,19.53,,1,1,25,0,0,0,0,0,0,0,0
+BBB,2,43075,2,77,25.39,,1,2,26,1,0,0,0,0,0,0,0
